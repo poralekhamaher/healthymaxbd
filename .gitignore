@@ -1,0 +1,14 @@
+# Publish only the curated GitHub showcase.
+*
+!.gitignore
+!README.md
+!assets/
+!assets/**
+
+# Keep intermediate capture sources local; publish composed showcase assets only.
+assets/contact-desktop.webp
+assets/contact-mobile.webp
+assets/contact-mobile-focus.webp
+assets/mobile-hero-clean.webp
+assets/features/en-treatments.webp
+assets/features/bn-treatments.webp
